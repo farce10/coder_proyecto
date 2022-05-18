@@ -1,0 +1,13 @@
+.menu ul li a:hover{
+	color: blueviolet;
+}
+.container{
+	animation-name: zoom;
+
+}
+.container_btn ul li a:hover{
+color: black;
+}
+.info_carta img:hover{
+background-color: lightblue;
+}
